@@ -1,0 +1,35 @@
+body{
+    background-color:black;
+}
+
+.div1{
+    background-color: rgb(71, 86, 80);
+    width: 50%;
+    height: 10%;
+    margin: 10px 500px 5px 320px;
+    -webkit-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+    align-items: baseline;
+} 
+
+ .p1
+ {
+ text-justify: auto;color: aliceblue;
+}
+ 
+.img{shape-image-threshold: calc(green);align-items: center;}
+photo{align-items: center;}
+
+img{align-items: center;}
+.h3a{ text-decoration: wavy; color:blue;}
+ 
+.fpart{
+    align-self: start;background-color: rgb(227, 241, 19);width: 100%;align-self: center;
+}
+.h3b{
+    text-decoration: wavy;color: blue;
+}
+.spart{
+    align-self: flex-end;background-color:rgb(248, 19, 19) ;width: 100%;align-items: center;
+}
